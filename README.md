@@ -1,4 +1,4 @@
-# MeuCrud - Sistema de Calculo para indicadores
+# Sistema de gestão e calculo de indicadores
 Sistema web completo para gestão de avaliações, desempenho e usuários, com painéis para administradores, coordenadores e colaboradores. Desenvolvido em Node.js, Express, Prisma ORM, EJS e MySQL.
 
 ## Índice
